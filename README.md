@@ -4,14 +4,12 @@ Hands-on Tutorials on computational Optimal Transport
 📦 Session 1: Getting Started with Optimal Transport
 
 -- Intro to Optimal Transport and the POT library\
--- Visualizing OT plans with `ot.emd` and `ot.sinkhorn`\
+-- Visualizing OT plans with `ot.emd` and `ot.sinkhorn`, seeing the influence of regularization\
 -- Computing Wasserstein distances and easy barycenters\
--- Practical example: Wasserstein vs. Euclidean barycenters on MNIST digits
 
 📦 Session 2: Implementing Sinkhorn and Beyond
 
--- Implementing the Sinkhorn algorithm from scratch\
--- Playing with entropic regularization (ε)\
+-- Implementing the Sinkhorn algorithm from scratch via Duality perspective\
 -- Exploring alternative regularizations (e.g., quadratic, sigmoid)\
 -- Hands-on optimization with gradient-based solvers
 
@@ -20,9 +18,16 @@ Hands-on Tutorials on computational Optimal Transport
 -- Overview of ML-driven OT solvers\
 -- Meta Optimal Transport (Meta-OT) with TensorFlow\
 -- Comparison with classical methods\
--- Application: Learning transport maps
 
 📦 Session 4: Sampling and Dynamical OT
 
 -- TBD
+
+
+### If you wish to support Ukraine, you can donate to the fundraising initiative I am currently a part of!
+(Full description is in my post, see the link below)
+
+<p align="left">
+    <img src="IMG_1785.jpeg" alt="Picture of a QR-code with a link to donate" width="400">
+</p>
 
