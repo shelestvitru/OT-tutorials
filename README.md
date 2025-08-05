@@ -1,25 +1,25 @@
 # OT-tutorials
 Hands-on Tutorials on computational Optimal Transport
 
-📦 Session 1: Getting Started with Optimal Transport
+Session 1: Getting Started with Optimal Transport
 
 -- Intro to Optimal Transport and the POT library\
 -- Visualizing OT plans with `ot.emd` and `ot.sinkhorn`, seeing the influence of regularization\
--- Computing Wasserstein distances and easy barycenters\
+-- Computing Wasserstein distances and easy barycenters
 
-📦 Session 2: Implementing Sinkhorn and Beyond
+Session 2: Implementing Sinkhorn and Beyond
 
 -- Implementing the Sinkhorn algorithm from scratch via Duality perspective\
 -- Exploring alternative regularizations (e.g., quadratic, sigmoid)\
 -- Hands-on optimization with gradient-based solvers
 
-📦 Session 3: Learning-Based OT Solvers
+Session 3: Learning-Based OT Solvers
 
 -- Overview of ML-driven OT solvers\
 -- Meta Optimal Transport (Meta-OT) with TensorFlow\
--- Comparison with classical methods\
+-- Comparison with classical methods
 
-📦 Session 4: Sampling and Dynamical OT
+Session 4: Sampling and Dynamical OT
 
 -- TBD
 
