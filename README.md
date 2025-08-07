@@ -15,7 +15,6 @@ Hands-on Tutorials on computational Optimal Transport
 
 # Session 3: Learning-Based OT Solvers
 
--- Examples of usage of OT in ML (wasserstein GANs)\
 -- Overview of ML-driven OT solvers\
 -- Meta Optimal Transport (Meta-OT) with TensorFlow\
 -- Comparison with classical methods (e.g. computed with Sinkhorn)
@@ -23,7 +22,8 @@ Hands-on Tutorials on computational Optimal Transport
 
 # Session 4: Sampling and Dynamical OT
 
--- TBD
+-- Examples of usage of OT in ML (Generating data with Sinkhorn loss)\
+-- Dynamics and other sampling methods
 
 
 ### If you wish to support Ukraine, you can donate to the fundraising initiative I am currently a part of!
